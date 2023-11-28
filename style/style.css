@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.titulo {
+  text-align: center;
+  padding: 20px;
+}
+
+.container-tabuada {
+  width: 95%;
+  margin: auto;
+}
+
+.tabuada {
+  text-align: center;
+  width: 300px;
+  margin: 30px  auto;
+}
+
+.tabuada h2 {
+  margin-bottom: 50px;
+}
+
+#txtN1 {
+  padding: 10px 20px;
+  margin-top: 10px;
+  outline: none;
+  border: none;
+  background-color: rgb(236, 224, 224);
+  border-radius: 10px;
+}
+
+#btnGerar {
+  margin-top: 10px;
+  padding: 10px 20px;
+  border: none;
+  background: rgb(0, 140, 255);
+  color: white;
+  border-radius: 5px;
+
+}
+
+#res {
+  margin-top: 50px;
+}
+
+.tabuada p {
+  font-size: 19px;
+}
